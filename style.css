@@ -16,3 +16,17 @@ h2 {
   background-color: coral;
   color: black;
 }
+
+.burger {
+  color: red;
+}
+.burger:visited {
+  color: brown;
+}
+
+.pizza {
+  color: orange;
+}
+.pizza:visited {
+  color: green;
+}
